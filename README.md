@@ -1,36 +1,48 @@
-# Hi, I'm Haydon Barnes 👋
+### Hi, I'm Haydon Barnes 👋
 
 ### 🎯 Focus Statement
-CIS undergraduate at JCCC pairing core networking principles and structured programming with hands-on systems administration. Targeting the **Help Desk Analyst I** role with **Yoh** in Topeka to deliver reliable enterprise technical support, user administration, and high-quality incident documentation in a ServiceNow environment.
 
----
+CIS undergraduate at JCCC pairing core networking principles and structured programming with hands-on systems administration. Targeting to deliver reliable, hard work. My current graduation path is listed below. 
 
-### 🗺️ Technical Capabilities Roadmap
+### Technical Capabilities Roadmap
 
-| Phase / Timeline | Core Competency Focus | Active Toolset & Concepts |
-| :--- | :--- | :--- |
-| **Current Semester** | Connectivity, Logic & Support Foundations | Python Syntax, OSI Model, TCP/IP Fundamentals, Semantic HTML5/CSS3, Endpoint Diagnostics. |
-| **Next Semester** | Automation & OS Internals | Object-Oriented Python, Unix/Linux CLI Navigation, Shell Scripting, JavaScript, Active Directory Basics. |
-| **Following Semesters** | Data & Architecture | Relational Databases (SQL), Systems Design & Analysis, Web-to-DB Integration, Data Structures. |
+Timeline 
 
----
+Core Competency Focus 
 
-### 💻 Academic Sandbox
-#### **Networking & Logic Infrastructure Lab | Current Semester**
-* **Execution:** Simulating local area network (LAN) topologies to analyze packet travel across network layers while building structured Python scripts to master programmatic logic and diagnostic workflows.
-* **Toolset:** Python, Wireshark, Cisco Packet Tracer.
+Active Toolset & Concepts 
 
----
+****Current Semester****
+Network Connectivity & Core LogicPython Syntax, OSI Model, TCP/IP, Semantic HTML5/CSS3, Diagnostics
+****Next Semester****
+Automation, Scripting & OS InternalsOOP Python, Unix/Linux CLI, Shell Scripting, JavaScript, Active Directory
+****Following Semesters****
+Data Management & Systems ArchitectureRelational Databases (SQL), Systems Design, Web-to-DB Integration
 
-### 🛠️ Technical Exploration & Foundations
-#### **Self-Directed Environment Deployment (Linux Ecosystem) | Past Independent Focus**
-* **Environment Configuration:** Gained early, hands-on exposure to Linux operating systems by hosting, configuring, and modifying dedicated host environment architectures.
-* **Access & Governance Management:** Managed text-based configuration assets (YAML, JSON) to establish secure user access controls, group permissions structural hierarchies, and core environment variables.
-* **System Troubleshooting:** Navigated live server runtime console logs to systematically isolate baseline execution errors, identify runtime exceptions, and resolve module dependency conflicts.
+### Featured Projects & Academic Sandbox
 
----
+### **AI Job Market Analyzer** | Full-Stack Project
 
-### 📬 Connect with Me
-* 785-288-0484 
-* HAYDONEBARNES@GMAIL.COM 
-* POWHATTAN, KANSAS
+* **Automated Screening:** Built an intelligent parsing application designed to analyze job data against custom user resumes to calculate precise keyword match rates.
+* **Architecture & Authentication:** Configured a secure user authentication layer utilizing JSON Web Tokens (JWT) to safeguard private application history logs.
+* **Version Control:** Managed the complete source code architecture under a dedicated [GitHub Repository](https://github.com/hizzy-exe/) using Git version-control workflows.
+
+### **Networking & Logic Infrastructure Lab** | Current Semester
+
+* **Network Simulation:** Modeled LAN topologies to track and analyze packet travel across network layers.
+* **Logic Scripting:** Developed structured Python scripts to automate diagnostic workflows and master program logic.
+* **Core Toolset:** Python, Wireshark, Cisco Packet Tracer.
+
+### Technical Exploration & Foundations
+
+### **Linux Infrastructure & Configuration Deployment** | Independent Project
+
+* **Infrastructure Hosting:** Deployed and modified dedicated Linux environment architectures for hands-on OS exposure.
+* **Access Control:** Configured text-based YAML and JSON files to enforce secure user access controls and group permissions.
+* **Log Analysis:** Monitored live server runtime console logs to systematically isolate execution errors and module conflicts.
+
+### Contact Details
+
+* **Phone:** 785-288-0484
+* **Email:** haydonebarnes@gmail.com
+* **Location:** Powhattan, Kansas
